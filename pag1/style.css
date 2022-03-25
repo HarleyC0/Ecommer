@@ -21,7 +21,7 @@ header, .logo, .login {
 }
 
 header {
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     position:fixed;
     left: 0;
     top: 0;
