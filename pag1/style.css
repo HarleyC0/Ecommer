@@ -93,6 +93,11 @@ header {
     display: block;
 }
 
+.nombre-tienda{
+    font-family: cinzel;
+}
+
+
 /* Imagen 1 fondo fixed */
 
 .imagen1-fondo {
@@ -122,4 +127,9 @@ header {
     text-align: center;
     padding-top: 10px;
     
+}
+
+.portada{
+    margin: 50vh;
+
 }
