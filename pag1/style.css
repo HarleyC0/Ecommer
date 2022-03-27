@@ -100,36 +100,33 @@ header {
 
 /* Imagen 1 fondo fixed */
 
-.imagen1-fondo {
-    background-image: url(/Images/img1.jpg);
+.imagen1-fixed {
+    background-image: url(/Images/imagen-sombras.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
-    height: 45em;
+    height: 55em;
     margin-left: 40px;
     margin-right: 40px;
 }
 
-.logo-estatico {
+.logo-fixed {
     color: #f3f3f4;
     text-align: center;
-    padding-top: 12rem;
+    padding-top: 17rem;
+    font-size: 2rem;
 }
 
-.nombre-estatico {
+.nombre-fixed {
     color: #f3f3f4;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 0em;
+    font-size: 8rem;
+    font-family: cinzel;
 }
 
-.eslogan-estatico {
+.eslogan-fixed {
     color: #f3f3f4;
     text-align: center;
-    padding-top: 10px;
-    
-}
-
-.portada{
-    margin: 50vh;
-
+    padding-top: 0.3em;
 }
